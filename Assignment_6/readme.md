@@ -1,79 +1,109 @@
-# Domino’s Store Delivery Time Analysis
+## 🚀 Task 2 - Diminos Case Study
 
-## 📖 Project Overview
-This project analyzes pizza delivery times for a Domino’s franchise store to evaluate whether the store meets the company’s operational performance benchmark.
+*Innomatics Research Labs – Data Science Internship*
 
-Domino’s requires that the **95th percentile of order delivery time remains below 31 minutes**. Failure to meet this criterion may lead to penalties, including potential loss of franchise privileges.  
-The objective of this analysis is to assess delivery performance and provide actionable, data-driven insights to support informed business decisions.
+This repository contains a **business-focused data analysis case study** on pizza delivery times for a Domino’s franchise store.  
+The analysis evaluates whether the store meets Domino’s operational performance requirement based on delivery efficiency.
 
-This work is a **business analytics case study**, focused on performance evaluation rather than predictive modeling.
+The primary objective is to assess **service reliability, risk factors, and percentile-based performance**, rather than building predictive models.
+
+---
+
+## 📁 Project Structure
+
+All project files are organized inside a structured folder:
+
+```
+📁 Dominos-Delivery-Time-Analysis
+ ├── Task_2_-_Diminos_Case_Study.ipynb
+ ├── diminos_data.csv
+ ├── README.md
+ └── requirements.txt
+```
+
+Each file contributes directly to the business analysis workflow.
 
 ---
 
 ## 🧩 Business Problem
-Kanav, the store owner, operates the pizza outlet 24×7 to maximize revenue and customer reach.  
-Domino’s has informed him that store performance will be evaluated based on delivery efficiency, specifically:
+
+Domino’s evaluates store performance using the following key metric:
 
 - **95% of all orders must be delivered within 31 minutes**
 
-Kanav requires a clear understanding of his store’s delivery behavior to:
-- Evaluate compliance with the benchmark
-- Identify operational risks
-- Take corrective actions to protect the business
+Failure to meet this benchmark may result in penalties, including potential loss of franchise rights.  
+This analysis helps the store owner understand delivery performance and identify operational risks.
 
 ---
 
-## 📊 Dataset Description
-The dataset contains delivery-time records for individual pizza orders.
+## 📊 Dataset Overview
 
-Key column used in the analysis:
-- **Delivery Time**: Total time (in minutes) taken to deliver an order
+| Column | Description |
+|------|-------------|
+| Delivery Time | Time taken (in minutes) to deliver an order |
 
-Each row represents a single completed order.
-
----
-
-## 🛠 Tools & Libraries Used
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+Each row represents a single completed pizza order.
 
 ---
 
-## 🔍 Analysis Performed
-The analysis includes:
+## 🧪 Analysis Performed
 
-- Exploratory Data Analysis (EDA) of delivery times
-- Distribution analysis to understand overall delivery behavior
-- Percentile-based evaluation with emphasis on the 95th percentile
-- Comparison of observed performance against the 31-minute threshold
-- Visualization of delivery-time spread and extreme delays
-
----
-
-## 📈 Key Insights
-- Delivery times show noticeable variability rather than uniform performance
-- The 95th percentile provides a more realistic risk indicator than average delivery time
-- A small number of delayed orders significantly affect compliance with the benchmark
-- Operational risk is primarily driven by extreme cases rather than typical deliveries
-
-(Detailed interpretations and visual evidence are provided within the notebook.)
+- Exploratory analysis of delivery time distribution  
+- Identification of delivery time variability  
+- Percentile-based evaluation with focus on the 95th percentile  
+- Comparison of observed performance against the 31-minute benchmark  
+- Visual analysis of extreme delays and outliers  
 
 ---
 
-## ✅ Conclusion
-This analysis enables an objective evaluation of whether the store meets Domino’s delivery-time requirements.  
-By focusing on high-percentile delays, the store owner can target specific operational bottlenecks and improve service reliability while reducing business risk.
+## 🛠 Technologies & Skills Demonstrated
+
+- Python Programming  
+- Pandas & NumPy  
+- Data Visualization (Matplotlib, Seaborn)  
+- Exploratory Data Analysis (EDA)  
+- Percentile-based performance evaluation  
+- Business risk interpretation  
+- Clean notebook structuring  
+- GitHub repository management  
 
 ---
 
-## 📁 Files in This Repository
-- `Task 2 - Diminos Case Study.ipynb` → Complete analysis notebook
-- `diminos_data.csv` → Dataset used for analysis
-- `README.md` → Project documentation
+## ▶️ How to Run the Analysis
+
+Open the notebook using Jupyter Notebook or Google Colab.
+
+If required, install dependencies using:
+
+```
+pip install -r requirements.txt
+```
 
 ---
 
-If this repository helps in understanding percentile-based performance analysis, a GitHub star can be used as a form of appreciation or feedback.
+## 🧑‍🎓 Intern Details
+
+| Field | Information |
+|------|-------------|
+| **Name** | Sourav Varma Gottumukkala |
+| **Assignment** | Task 2 - Diminos Case Study |
+| **Internship** | Data Science Internship |
+| **Organization** | Innomatics Research Labs |
+
+---
+
+## 🏁 Final Summary
+
+This repository showcases understanding of:
+- Business-oriented data analysis  
+- Percentile-based performance metrics  
+- Identification of operational risks  
+- Service efficiency evaluation  
+- Data-driven decision support  
+- Professional documentation practices  
+
+**This completes Internship Assignment => Task 2 - Diminos Case Study successfully.**
+
+---
+
+**If you found this repository helpful, feel free to give it a ⭐.**
