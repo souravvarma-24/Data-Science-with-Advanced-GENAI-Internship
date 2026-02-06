@@ -13,7 +13,7 @@ The objective is to understand **patterns, consistency, and variability** in sco
 All project files are organized inside a structured folder:
 
 ```
-📁 ML-Test-Scores-Analysis
+📁 Sourav_419_Data-Science-with-Advanced-GENAI-Internship_Assignment_5
  ├── Task 1 - Analysis on ML Test Scores.ipynb
  ├── scores_data.csv
  ├── README.md
