@@ -10,7 +10,7 @@ This repository contains solutions to **three advanced-level Python programming 
 All assignment programs are organized inside a structured folder:
 
 ```
-📁 Sourav_419_Internship_Assignment_2
+📁 Sourav_419_Data-Science-with-Advanced-GENAI-Internship_Assignment_2
  ├── 1_running_sum.py
  ├── 2_shuffle_array.py
  ├── 3_kids_with_candies.py
