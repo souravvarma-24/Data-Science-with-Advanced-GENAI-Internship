@@ -145,11 +145,11 @@ python 5_counting_bits.py
 ## 🧑‍🎓 Intern Details
 
 | Field | Information |
-|-------|-------------|
+|------|-------------|
 | **Name** | Sourav Varma Gottumukkala |
-| **Internship** | Data Science Internship – Innomatics Research Labs |
 | **Assignment** | Advance (EDA) Python Programming - Programming Task 3 |
-| **Date** | December 2025 |
+| **Internship** | Data Science Internship |
+| **Organization** | Innomatics Research Labs |
 
 ---
 
@@ -165,7 +165,7 @@ This repository demonstrates strong understanding of:
 - Clean and efficient Python coding  
 - Professional GitHub repository documentation  
 
-This completes **Internship Assignment – 4** successfully.
+**This completes Internship Assignment => Advance (EDA) Python Programming - Programming Task 3 successfully.**
 
 ---
 
