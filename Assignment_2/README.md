@@ -104,10 +104,10 @@ python 3_kids_with_candies.py
 
 | Field | Information |
 |------|-------------|
-| Name | Sourav Varma Gottumukkala |
-| Assignment | Advance Python Programming - Programming Task 1 |
-| Internship | Data Science Internship |
-| Organization | Innomatics Research Labs |
+| **Name**| Sourav Varma Gottumukkala |
+| **Assignment** | Advance Python Programming - Programming Task 1 |
+| **Internship** | Data Science Internship |
+| **Organization** | Innomatics Research Labs |
 
 ---
 
