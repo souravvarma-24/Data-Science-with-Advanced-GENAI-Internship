@@ -1,5 +1,4 @@
 ## 🚀 Sentiment Analysis of Real-time Flipkart Product Reviews
-
 ---
 
 **Innomatics Research Labs – Data Science Internship**
