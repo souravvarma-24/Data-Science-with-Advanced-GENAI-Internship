@@ -1,6 +1,6 @@
 ## 🚀 Final Project (Basic Version) - URL Shortner Application
 
-*Innomatics Research Labs – Data Science Internship*
+**Innomatics Research Labs – Data Science Internship**
 
 This repository contains a Flask-based **URL Shortener web application (Basic version)**. The application allows users to shorten long URLs and store them for future reference. Users can view previously shortened URLs along with their original URLs through a dedicated history page.
 
