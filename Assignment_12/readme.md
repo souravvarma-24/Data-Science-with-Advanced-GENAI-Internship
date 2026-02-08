@@ -101,7 +101,7 @@ The application will open in your browser for real-time sentiment analysis.
 | Field | Information |
 |------|-------------|
 | **Name** | Sourav Varma Gottumukkala |
-| **Project** | Sentiment Analysis of Real-time Flipkart Product Reviews |
+| **Assignment** | Sentiment Analysis of Real-time Flipkart Product Reviews |
 | **Internship** | Data Science Internship |
 | **Organization** | Innomatics Research Labs |
 
